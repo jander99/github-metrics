@@ -1,0 +1,13 @@
+{
+  "name": "@github-metrics/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "19.2.2",
+    "@nx/workspace": "19.2.2",
+    "nx": "19.2.2"
+  }
+}
